@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Documents\Projects\Ch4-P11-FunWithTuples\Ch4-P11-FunWithTuples\bin\Debug\Ch4-P11-FunWithTuples.exe.config
+C:\Users\Lenovo\Documents\Projects\Ch4-P11-FunWithTuples\Ch4-P11-FunWithTuples\bin\Debug\Ch4-P11-FunWithTuples.exe
+C:\Users\Lenovo\Documents\Projects\Ch4-P11-FunWithTuples\Ch4-P11-FunWithTuples\bin\Debug\Ch4-P11-FunWithTuples.pdb
+C:\Users\Lenovo\Documents\Projects\Ch4-P11-FunWithTuples\Ch4-P11-FunWithTuples\obj\Debug\Ch4-P11-FunWithTuples.csprojAssemblyReference.cache
+C:\Users\Lenovo\Documents\Projects\Ch4-P11-FunWithTuples\Ch4-P11-FunWithTuples\obj\Debug\Ch4-P11-FunWithTuples.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\Projects\Ch4-P11-FunWithTuples\Ch4-P11-FunWithTuples\obj\Debug\Ch4-P11-FunWithTuples.exe
+C:\Users\Lenovo\Documents\Projects\Ch4-P11-FunWithTuples\Ch4-P11-FunWithTuples\obj\Debug\Ch4-P11-FunWithTuples.pdb
